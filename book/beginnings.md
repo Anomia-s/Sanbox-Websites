@@ -36,7 +36,7 @@ Things tend to go downhill here. This page is where Store Items you bought are w
 
 Most avatar editors run off a headless (Non-graphical) version of blender that renders the avatars using a Python script.
 
-Note: Python is a programming language that's really versatile and works with Blender.
+> Note: Python is a programming language that's really versatile and works with Blender.
 
 In my three to now four years of working in different websites, I've seen "horrifying" avatar renderers. Some generated python files for each render, **and did not delete them afterwards...**, so if you had to make a site backup, you'd find yourself with **TERABYTES** of python files scattered around. Certainly not something we want.
 
@@ -63,12 +63,12 @@ Most newbie web developers in the Sandbox community begin learning PHP, and for 
 PHP is amongst the most hated languages to learn web development with. Unless you use a very Opinionated framework, or know very well Web Architecture (Designing project structures and ideating appropiate code abstraction), it can get extremely messy to work with and very quickly. **Most Sandbox websites have admitted that this happened to them.**
 
 
-Note; An "Opinionated" framework is a framework that **requires you to do things in an specific and certain way**.
-Note; A "Framework" as it's name suggests, it's a base codebase to work on top of, it comes with utlities made to help you get things done faster.
+> Note; An "Opinionated" framework is a framework that **requires you to do things in an specific and certain way**.
+
+> Note; A "Framework" as it's name suggests, it's a base codebase to work on top of, it comes with utlities made to help you get things done faster.
 
 So in short; If you are a newbie, and want to use PHP, use an opinonated framework. **Laravel is an excellent choice.**
 
 To note though, unless you know how to set up your servers very well. (And have various of them working together), PHP can easily get clogged. (Slowing down all your site). So this works well for small and medium sites. 
 
 Growth in Sandbox website is exponential though (the more people join the faster more people will join), so you should be ready to fight off these requirements.
-
